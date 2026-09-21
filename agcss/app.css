@@ -1,7 +1,7 @@
 
 #jumb{
     
-    background: rgb(247,234,200);
+    background: rgb(236 240 241);
     border-radius: 0px;
    box-shadow: 1px 1px 10px gray;
 }
@@ -19,7 +19,7 @@
 
 #contact{
     
-    background: black;
+    background: rgb(27 38 49);
     margin-top: -30px; 
     padding: 5px;
     width: 100%;
@@ -84,7 +84,7 @@ strong{
 .well-lg{
     
     border-radius: 0px;
-    background: rgb(242,238,197);
+    background:  rgb(217 228 224);
     border: none;
     box-shadow: 1px 1px 10px gray;
     
@@ -92,7 +92,7 @@ strong{
 
 .obj{
     
-    background: rgb(191,175,128);
+    background: rgb(165 200 214);
     
 }
 
@@ -142,7 +142,7 @@ font-family: Arial, Helvetica, sans-serif;
 
 #contact{
     
-    background: black;
+    background: rgb(27 38 49);
     margin-top: -25px; 
     padding: 5px;
     width: 100%;
@@ -151,7 +151,7 @@ font-family: Arial, Helvetica, sans-serif;
 
 #jumb{
     
-    background: rgb(247,234,200);
+    background: rgb(236 240 241);
     border-radius: 0px;
     /*height: 300px;*/
 	height:auto;
@@ -189,7 +189,7 @@ font-family: Arial, Helvetica, sans-serif;
 
 #contact{
     
-    background: black;
+    background: rgb(27 38 49);
     margin-top: -25px; 
     padding: 5px;
     width: 100%;
@@ -198,11 +198,11 @@ font-family: Arial, Helvetica, sans-serif;
 
 #jumb{
     
-    background: rgb(247,234,200);
+    background: rgb(236 240 241);
     border-radius: 0px;
     /*height: 300px;*/
 	height:auto;
-}
+};
     
   #address{
     
@@ -244,7 +244,7 @@ font-family: Arial, Helvetica, sans-serif;
 
 #jumb{
     
-    background: rgb(247,234,200);
+    background: rgb(236 240 241);
     border-radius: 0px;
     /*height: 300px;*/
 	height:auto;
